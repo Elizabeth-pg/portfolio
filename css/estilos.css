@@ -1,0 +1,57 @@
+nav ul li{
+	float:left;
+	list-style: none;
+	margin: 10px;
+	background: #e0d9ad;
+	border: 1px solid black;
+	border-radius: 2px;
+
+}
+
+nav ul li:hover{
+	background:#9dc4c0 ;
+	border: 3px solid beige;
+	border-radius: 5px;
+	padding: 5px;
+    
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+
+.limpiar{
+	clear: both;
+}
+
+.cambiar{
+	border-radius: 5px;
+	color: white;
+	background-color: rgb(84, 152, 84);
+	
+}
+.cambiar {
+
+}
+button a{
+	text-decoration: none;
+	color: white;
+}
+.cambiar:hover{
+	background-color: rgb(153, 210, 153);
+
+}
+.blog{
+	background-color: white;
+	color: black;
+
+}
+.blog:hover{
+	background-color: black;
+	color: white;
+}
+button a{
+	color: black;
+}
